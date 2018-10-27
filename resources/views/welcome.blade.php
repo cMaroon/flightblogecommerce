@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>FastFlight</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -79,17 +79,26 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    FastFlight
                 </div>
+                <div class="title m-b-md">
+                    The Sky is Waiting for You
+                </div>
+                <p>
+                    With FastFlight, you can easily book any ticket you need to travel safely thanks to our detailed system of searching and booking airline tickets.
+                </p>
+                <div class="title m-b-md">
+                    Latest Blog Posts
+                </div>
+                <h1>
+                    Post your Flight Experience with us.
+                </h1>
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
+                <h2>
+                    Buy your things in advanced using our E-Commerce page.
+                </h2>
+
+               
             </div>
         </div>
     </body>
